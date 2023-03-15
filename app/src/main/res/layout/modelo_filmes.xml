@@ -22,7 +22,7 @@
         android:src="@drawable/velozestokio" />
 
     <TextView
-        android:id="@+id/idTituloFilme"
+        android:id="@+id/idTituloFilmes"
         android:layout_margin="12sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
